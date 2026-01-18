@@ -67,8 +67,8 @@ newfinal.csv
 
 ### 1️⃣ Clone the Repository
 ```
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/ridu-K/SDG.git
+cd SDG
 ```
 
 ### 2️⃣ Create a Virtual Environment (Recommended)
